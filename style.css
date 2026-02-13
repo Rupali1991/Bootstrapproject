@@ -1,0 +1,4 @@
+.slider-img {
+  height: 500px;        /* same height for all images */
+  object-fit: cover;    /* crop nicely, no stretching */
+}
